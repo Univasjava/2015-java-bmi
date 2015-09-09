@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Java Web Application</title>
+<title>Java BMI Calculator</title>
 </head>
 <body>
 
-<h1>Java Web Application</h1>
-<p>This is a boilerplate for Java Web Application with Gradle</p>
+<h1>Java BMI Calculator</h1>
+<p>This will be a Java BMI Calculator aplication soon</p>
 
 </body>
 </html>
