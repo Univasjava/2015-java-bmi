@@ -7,7 +7,7 @@
 <body>
 
 <h1>Java BMI Calculator</h1>
-<p>This will be a Java BMI Calculator aplication soon</p>
+<p>This will be a Java BMI Calculator Aplication</p>
 
 </body>
 </html>
